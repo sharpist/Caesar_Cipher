@@ -6,3 +6,12 @@ C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Caesar Cipher\Caesar Ci
 C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.csproj.GenerateResource.Cache
 C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.exe
 C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.pdb
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.exe.config
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.exe
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.pdb
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.exe
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.pdb
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar_Cipher.Form.resources
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar_Cipher.Properties.Resources.resources
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\GitHub\Caesar_Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.csprojResolveAssemblyReference.cache
